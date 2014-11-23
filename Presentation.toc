@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{History of Handedness}{3}{0}{1}
+\beamer@sectionintoc {2}{Building the Model}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Another Subsection}{4}{0}{2}
+\beamer@sectionintoc {3}{Comparing Model to Baseball Data}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Another Subsection}{5}{0}{3}
