@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.26pt}
+\beamer@endinputifotherversion {3.33pt}
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
@@ -12,8 +12,7 @@
 \headcommand {\sectionentry {2}{Building the Model}{4}{Building the Model}{0}}
 \headcommand {\beamer@sectionpages {3}{3}}
 \headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Another Subsection}}\headcommand {\beamer@subsectionpages {4}{3}}
-\headcommand {\slideentry {2}{1}{1}{4/4}{Another Subsection}{0}}
+\headcommand {\slideentry {2}{0}{2}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\sectionentry {3}{Comparing Model to Baseball Data}{5}{Comparing Model to Baseball Data}{0}}
 \headcommand {\beamer@sectionpages {4}{4}}
