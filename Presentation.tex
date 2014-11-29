@@ -176,7 +176,7 @@
 
     %\subsection{Another Subsection}
 
-    \begin{frame}{Blocks}
+    \begin{frame}{Building the Model}
     \begin{block}{Block Title}
     You can also highlight sections of your presentation in a block, with it's own title
     \end{block}
@@ -192,16 +192,19 @@
 
     \subsection{Another Subsection}
 
-    \begin{frame}{Blocks}
-    \begin{block}{Block Title}
-    You can also highlight sections of your presentation in a block, with it's own title
-    \end{block}
-    \begin{theorem}
-    There are separate environments for theorems, examples, definitions and proofs.
-    \end{theorem}
-    \begin{example}
-    Here is an example of an example block.
-    \end{example}
+    \begin{frame}{Video}
+    
+    \includemedia[
+    label=Model1,
+    addresource=animation1.mp4,
+    activate=pageopen,
+    width=10cm, height = 8cm,
+    flashvars={
+      source=animation1.mp4
+      &loop=true
+    }
+    ]{}{VPlayer.swf}  
+
     \end{frame}
 
 % Placing a * after \section means it will not show in the
