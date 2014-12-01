@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.26pt}
+\beamer@endinputifotherversion {3.33pt}
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
@@ -19,15 +19,14 @@
 \headcommand {\sectionentry {3}{Comparing Model to Baseball Data}{6}{Comparing Model to Baseball Data}{0}}
 \headcommand {\beamer@sectionpages {4}{5}}
 \headcommand {\beamer@subsectionpages {4}{5}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{6}{Another Subsection}}\headcommand {\beamer@subsectionpages {6}{5}}
-\headcommand {\slideentry {3}{1}{1}{6/6}{Another Subsection}{0}}
+\headcommand {\slideentry {3}{0}{4}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {3}{1}{2}{7/7}{Another Subsection}{0}}
+\headcommand {\slideentry {3}{0}{5}{7/7}{}{0}}
 \headcommand {\beamer@framepages {7}{7}}
 \headcommand {\sectionentry {4}{Summary}{8}{Summary}{0}}
 \headcommand {\beamer@sectionpages {6}{7}}
 \headcommand {\beamer@subsectionpages {6}{7}}
-\headcommand {\slideentry {4}{0}{3}{8/8}{}{0}}
+\headcommand {\slideentry {4}{0}{6}{8/8}{}{0}}
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\partentry {\translate {Appendix}}{1}}
 \headcommand {\beamer@partpages {1}{8}}
