@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 NOV 2014 19:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 DEC 2014 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1246,16 +1246,20 @@ thkerncmss.
 ]
 \g__file_internal_ior=\read2
 <<VPlayer.swf>><<animation1.mp4>>
-Overfull \vbox (17.3488pt too high) detected at line 208
+Overfull \vbox (17.3488pt too high) detected at line 204
  []
 
 [5
 
 ] [6
 
+] [7
+
+] [8
+
 ]
-Package atenddvi Info: Last page = 7.
- [7
+Package atenddvi Info: Last page = 9.
+ [9
 
  </usr/local/texlive/2014/texmf-dist/tex/latex/beamer/art/beamericonbook.pdf> <
 /usr/local/texlive/2014/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
@@ -1268,39 +1272,41 @@ Package atenddvi Info: Last page = 7.
 \tf@snm=\write8
 \openout8 = `Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 268.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 291.
  (./Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
 Package rerunfilecheck Info: File `Presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 1CFBBD4E62CCB55563A9B54233B18AF8;304.
+(rerunfilecheck)             Checksum: 01BC5ADC157B0781C67976BFBA05BCB0;304.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
  ) 
 Here is how much of TeX's memory you used:
- 26884 strings out of 493117
- 548962 string characters out of 6135433
- 590174 words of memory out of 5000000
- 29814 multiletter control sequences out of 15000+600000
- 10750 words of font info for 39 fonts, out of 8000000 for 9000
+ 26917 strings out of 493117
+ 549704 string characters out of 6135433
+ 591174 words of memory out of 5000000
+ 29842 multiletter control sequences out of 15000+600000
+ 12398 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,63p,10363b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
-b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7
-.pfb>
-Output written on Presentation.pdf (7 pages, 851982 bytes).
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.p
+fb>
+Output written on Presentation.pdf (9 pages, 869866 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  172 words of extra memory for PDF output out of 10000 (max. 10000000)
 

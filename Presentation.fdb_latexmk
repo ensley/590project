@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1417049616 "Presentation.tex" "Presentation.pdf" "Presentation" 1417049618
+["pdflatex"] 1417452513 "Presentation.tex" "Presentation.pdf" "Presentation" 1417452514
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty" 1335995445 24460 92f559a71aac869021852c227c704b38 ""
@@ -167,15 +167,15 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty" 1399675188 3255 42d834dc82171769c16badd22df87021 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "Presentation.aux" 1417049618 4582 e0890d112c037b13d282658d222237ce ""
-  "Presentation.nav" 1417049618 2350 7879a6243e480568e98677c1730be99f ""
-  "Presentation.out" 1417049618 304 1cfbbd4e62ccb55563a9b54233b18af8 ""
-  "Presentation.tex" 1417049614 7442 87611f2eac91ad8583a892efb11554d3 ""
-  "Presentation.toc" 1417049618 333 d17d86d50f4715f773b4fe4d7e392008 ""
+  "Presentation.aux" 1417452514 4848 c27c718ea2f7de372c0a80795c1ab40c ""
+  "Presentation.nav" 1417452514 2544 1eced35f1780e3a54624ab8aa50c5fd1 ""
+  "Presentation.out" 1417452514 304 01bc5adc157b0781c67976bfba05bcb0 ""
+  "Presentation.tex" 1417452512 8193 495c3515d25ffa4e13c5c9599af33c42 ""
+  "Presentation.toc" 1417452514 333 ed6ee16c9c8dffd6a1b290f2a57b846a ""
   (generated)
-  "Presentation.toc"
-  "Presentation.pdf"
-  "Presentation.log"
-  "Presentation.aux"
   "Presentation.nav"
+  "Presentation.pdf"
   "Presentation.out"
+  "Presentation.aux"
+  "Presentation.toc"
+  "Presentation.log"
