@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1417455503 "Presentation.tex" "Presentation.pdf" "Presentation" 1417455506
+["pdflatex"] 1417455873 "Presentation.tex" "Presentation.pdf" "Presentation" 1417455881
   "/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -166,15 +166,15 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "CumuFracLH.png" 1417455110 23439 b3ea75d47a0af27bc5babe3ac526dc0b ""
   "ObVSPredLH.png" 1417455110 26812 ec3f0c1e8a89cc61e7012daa4c327bfd ""
-  "Presentation.aux" 1417455505 4307 887d13c78d7e7b338c0fd73464670979 ""
-  "Presentation.nav" 1417455505 2391 a3bb480b004066f37673c0c72ccb3ce9 ""
-  "Presentation.out" 1417455505 237 e690c77a002b4bfe340fc39f2571e789 ""
-  "Presentation.tex" 1417455496 8580 979b421523d0bdb946f284c3b9260b40 ""
-  "Presentation.toc" 1417455505 273 9c133db7c1e64c6492003f091c5bf787 ""
+  "Presentation.aux" 1417455881 4307 887d13c78d7e7b338c0fd73464670979 ""
+  "Presentation.nav" 1417455881 2391 a3bb480b004066f37673c0c72ccb3ce9 ""
+  "Presentation.out" 1417455881 237 e690c77a002b4bfe340fc39f2571e789 ""
+  "Presentation.tex" 1417455872 8690 bd4cbcb87b0014a04c9a18f247968333 ""
+  "Presentation.toc" 1417455881 273 9c133db7c1e64c6492003f091c5bf787 ""
   (generated)
-  "Presentation.toc"
   "Presentation.out"
+  "Presentation.toc"
   "Presentation.log"
-  "Presentation.nav"
   "Presentation.aux"
+  "Presentation.nav"
   "Presentation.pdf"
