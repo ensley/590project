@@ -78,7 +78,7 @@
 % - Use the \inst command only if there are several affiliations.
 % - Keep it simple, no one is interested in your street address.
 
-\date{STAT 590 Presentation, December 4, 2014}
+\date{STAT 590 Presentation, December 2, 2014}
 % - Either use conference name or its abbreviation.
 % - Not really informative to the audience, more for people (including
 %   yourself) who are reading the slides online
@@ -177,15 +177,24 @@
     %\subsection{Another Subsection}
 
     \begin{frame}{Building the Model}
-    \begin{block}{Block Title}
-    You can also highlight sections of your presentation in a block, with it's own title
-    \end{block}
-    \begin{theorem}
-    There are separate environments for theorems, examples, definitions and proofs.
-    \end{theorem}
-    \begin{example}
-    Here is an example of an example block.
-    \end{example}
+    \begin{itemize}
+      \item We want to model $l$, the proportion of lefties, over time.
+    \end{itemize}
+    \[
+      \frac{dl}{dt} = (1-l)P_{RL}(l) - lP_{LR}(l)
+    \]
+    \begin{itemize}
+      \item Assume $P_{RL}$ and $P_{LR}$ are symmetric.
+    \end{itemize}
+    \begin{equation}
+      \frac{dl}{dt} = (1-l)P_{RL}(l) - lP_{RL}(1-l)
+    \end{equation}
+    \begin{itemize}
+      \item Break $P_{RL}(l)$ into increasing and decreasing components.
+    \end{itemize}
+    \begin{equation}
+      P_{RL}(l) = cP_{RL}^{\textrm{coop}}(l) + (1-c)P_{RL}^{\textrm{comp}}(l)
+    \end{equation}
     \end{frame}
 
     \begin{frame}{Video}
